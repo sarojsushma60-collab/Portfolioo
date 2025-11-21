@@ -1,2 +1,12 @@
 
-<div class="name">Sushma Saroj</div><div class="job-title">BSC IT Student | Developer</div><div class="links"> <a href="https://www.linkedin.com/in/sushma-saroj-97540a39a?trk=contact-info" target="_blank">LinkedIn</a> <a href="https://github.com/sarojsushma60-collab" target="_blank" class="github">GitHub</a></div>
+<div class="name">Sushma Saroj</div><div class="job-title">BSC IT Student | Developer</div><div c
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PD2BVVB710"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PD2BVVB710');
+</script>
+lass="links"> <a href="https://www.linkedin.com/in/sushma-saroj-97540a39a?trk=contact-info" target="_blank">LinkedIn</a> <a href="https://github.com/sarojsushma60-collab" target="_blank" class="github">GitHub</a></div>
